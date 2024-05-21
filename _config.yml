@@ -11,8 +11,7 @@ brief-intro: Full-stack engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theshdowaura.github.io" # the base hostname & protocol for your site
 
-permalink: /:title/
-
+permalink: /:year/:month/:day/:title/
 # other links
 twitter_username:
 facebook_username:
@@ -23,7 +22,7 @@ zhihu_username:
 linkedIn_username:
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 本站记录我全栈之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
