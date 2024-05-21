@@ -5,3 +5,4 @@ _site
 .vscode
 .idea
 .DS_Store
+/public/css/images/banner.jpg
